@@ -113,6 +113,7 @@ ipch/
 *.VC.VC.opendb
 
 # Visual Studio profiler
+*.csproj
 *.psess
 *.vsp
 *.vspx
